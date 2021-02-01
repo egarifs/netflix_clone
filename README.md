@@ -1,16 +1,17 @@
-# flutter_netflix_clone
+# Netflix App
+Netflix UI for mobile App Using Flutter 
+credy
+## preview
+<img src="/assets/screeshot/netflix_1.jpg" width="32%"/>
+<img src="/assets/screeshot/netflix_2.jpg" width="32%"/>
 
-A new Flutter project.
+## features:
+* Home Screen
+* Navbar
+* Reusable Widgets
+## dependencies:
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+ `cached_network_image: ^2.5.0`
+`material_design_icons_flutter: ^4.0.5855`
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
